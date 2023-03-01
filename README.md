@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Misikir Delelew</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<h3>Currently enrolled in Microverse.</h3>
-▣ Check Out my <a href="https://shubhambhoyar077.github.io/portfolio/">Portfolio</a>
+<h3 Currently enrolled in Microverse.</h3>
+▣ Check Out my <a href="https://misikirdelelew.github.io/myportfolio.io/">Portfolio</a>
 
 
 ## 🌐 Socials:

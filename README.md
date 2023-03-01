@@ -12,8 +12,9 @@
 
 ## Projects
 
- ---> ◉ <a href="https://misikirdelelew.github.io/to-do-list/dist/">To Do List</a>
- ---> ◉ <a href="https://misikirdelelew.github.io/awesome-book/">Awesome Books</a>
+  ---> ◉ <a href="https://misikirdelelew.github.io/AwsomeBookES6/">Awesome Books</a>
+  ---> ◉ <a href="https://misikirdelelew.github.io/to-do-list/dist/">To Do List</a>
+
 
 
 # 📊 GitHub Stats:

@@ -24,11 +24,11 @@
 ## My projects
                         
 ├─◉ <a href="https://misikirdelelew.github.io/AwsomeBookES6/">Awesome Books</a>
-<br><P>This project is done by javascript html anc css for adding books to </p>
+<br>
 ├─◉ <a href="https://misikirdelelew.github.io/to-do-list/dist/">To Do List</a>
-<br><P>This project is done by javascript html anc css for managing our daily to do's </p>
+<br>
 ├─◉ <a href="https://misikirdelelew.github.io/Capston-Project-Module/">Capstone project on Orthodox church</a>
-    <P>This capstone project is done with JS, CSS, SCSS and html for orthodox church </p>
+ 
 
 <br/>
 <br/>

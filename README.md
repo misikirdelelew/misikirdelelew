@@ -53,23 +53,17 @@
 
   <br/>
     <p align="center">
-    <a href="https://github.com/misikirdelelew/github-readme-stats"><img alt="Dhuruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DhuruvSingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" /></a>
+    <a href="https://github.com/misikirdelelew/github-readme-stats"><img alt="Misikir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=misikirdelelew&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" /></a>
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="misikirdelelew" src="https://github-readme-streak-stats.herokuapp.com/?user=misikirdelelew&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="380"/>
     </a>
     </p>
-  <a href="https://github.com/misikirdelelew/github-readme-stats"><img alt="misikir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhuruvSingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/misikirdelelew/github-readme-stats"><img alt="misikir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikirdelelew&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 
 <br/>
 <br/>
-
-<a href="https://github.com/misikirdelelew/github-readme-activity-graph"><img alt="misikir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=misikirdelelew&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 
 <p align="left">
     
@@ -86,9 +80,4 @@
 <p align="center"> <a href="https://github.com/misikirdelelew/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misikirdelelew&theme=nord&row=1&column=6" alt="misikir delelew" /></a> </p>
 <br>
 
-## Views and Followers
-<a href="https://github.com/misikirdelelew/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DhuruvSingh">
-</a>
-<a href="https://github.com/misikirdelelew?tab=followers"><img src="https://img.shields.io/github/followers/DhuruvSingh?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>

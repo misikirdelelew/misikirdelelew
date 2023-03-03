@@ -27,7 +27,7 @@
 <br>
 ├─◉ <a href="https://misikirdelelew.github.io/to-do-list/dist/">To Do List</a>
 <br>
-◉ <a href="https://misikirdelelew.github.io/Capston-Project-Module/">Capstone project on Orthodox church</a>
+├─◉ <a href="https://misikirdelelew.github.io/Capston-Project-Module/">Capstone project on Orthodox church</a>
 
 
 <br/>

@@ -1,31 +1,94 @@
-<h1 align="center">Hi 👋, I'm Misikir Delelew</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-<h3 Currently enrolled in Microverse.</h3>
-▣ Check Out my <a href="https://misikirdelelew.github.io/myportfolio.io/">Portfolio</a>
+<p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/></p><hr>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Misikir</h1>
+<h3 align="center">Software Developer</h3>
+<br>
+
+## 🙋‍♂️ About Me
+
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="400px" height="213px">
+
+- 🔭 Student at **[Microverse](https://www.microverse.org/)**
+
+- 🌱 I’ve Completed my first module of **HTML, CSS and JavaScript**
+
+- 🤠 I’m currently learning **Core JavaScript Concepts**
+
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/misikirdelelew?tab=repositories)**
+
+- 📫 How to reach me **onlinemisikir@gmail.com**
+
+- ⚡ Fun fact **I love to read books.**
+-  👨‍💻 My Potrfolio are available at **[My Portfolio](https://misikirdelelew.github.io/myportfolio.io/)**
+
+## My projects
+                        
+├─◉ <a href="https://misikirdelelew.github.io/AwsomeBookES6/">Awesome Books</a>
+├─◉ <a href="https://misikirdelelew.github.io/to-do-list/dist/">To Do List</a>
+
+<br/>
+<br/>
+
+<div align="center">
+    
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack
+
+<p align="center"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href=" https://www.figma.com/" target="_blank"> <img alt="svgImg" <img src="https://img.icons8.com/fluency/46/000000/figma.png"/></a>
+    <a href=" https://getbootstrap.com/ target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+    <a href=" https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png"/></a>
+    <a href=" https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/RodChak/github-readme-streak-stats">
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/misikir-delelew-114a5946) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/https://twitter.com/misikirdelelew) 
+## 📊 My Github Stats
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <br/>
+    <p align="center">
+    <a href="https://github.com/misikirdelelew/github-readme-stats"><img alt="Dhuruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DhuruvSingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" /></a>
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="misikirdelelew" src="https://github-readme-streak-stats.herokuapp.com/?user=misikirdelelew&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="380"/>
+    </a>
+    </p>
+  <a href="https://github.com/misikirdelelew/github-readme-stats"><img alt="misikir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhuruvSingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## Projects
 
-  ---> ◉ <a href="https://misikirdelelew.github.io/AwsomeBookES6/">Awesome Books</a>
-  ---> ◉ <a href="https://misikirdelelew.github.io/to-do-list/dist/">To Do List</a>
+<br/>
+<br/>
+
+<a href="https://github.com/misikirdelelew/github-readme-activity-graph"><img alt="misikir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=misikirdelelew&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 
+<p align="left">
+    
+## Find me around the web 🌎: <a href="https://github.com/Favourezeugwa"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Tinkering with interactions on <a href="#"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/misikir-delelew-114a5946/">LinkedIn</a> 💼
+- Contact me on <a href="onlinemisikir@gmail.com/">Gmail</a> 📫
+<p/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=misikirdelelew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=misikirdelelew&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=misikirdelelew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<r>
+<br>
+<br>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/https://twitter.com/misikirdelelew)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<p align="center"> <a href="https://github.com/misikirdelelew/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misikirdelelew&theme=nord&row=1&column=6" alt="misikir delelew" /></a> </p>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=misikirdelelew&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Views and Followers
+<a href="https://github.com/misikirdelelew/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DhuruvSingh">
+</a>
+<a href="https://github.com/misikirdelelew?tab=followers"><img src="https://img.shields.io/github/followers/DhuruvSingh?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
